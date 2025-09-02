@@ -1,0 +1,14 @@
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\bin\Debug\net8.0\EscolaEstruturaDeDados.exe
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\bin\Debug\net8.0\EscolaEstruturaDeDados.deps.json
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\bin\Debug\net8.0\EscolaEstruturaDeDados.runtimeconfig.json
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\bin\Debug\net8.0\EscolaEstruturaDeDados.dll
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\bin\Debug\net8.0\EscolaEstruturaDeDados.pdb
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\obj\Debug\net8.0\EscolaEstruturaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\obj\Debug\net8.0\EscolaEstruturaDeDados.AssemblyInfoInputs.cache
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\obj\Debug\net8.0\EscolaEstruturaDeDados.AssemblyInfo.cs
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\obj\Debug\net8.0\EscolaEstruturaDeDados.csproj.CoreCompileInputs.cache
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\obj\Debug\net8.0\EscolaEstruturaDeDados.dll
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\obj\Debug\net8.0\refint\EscolaEstruturaDeDados.dll
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\obj\Debug\net8.0\EscolaEstruturaDeDados.pdb
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\obj\Debug\net8.0\EscolaEstruturaDeDados.genruntimeconfig.cache
+C:\ProjetosCS\EscolaEstruturaDeDados\EscolaEstruturaDeDados\obj\Debug\net8.0\ref\EscolaEstruturaDeDados.dll
